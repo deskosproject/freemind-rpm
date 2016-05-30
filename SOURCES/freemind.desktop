@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Freemind
+Comment=Free mind mapping software
+Exec=/usr/bin/freemind %U
+Terminal=false
+Type=Application
+Icon=freemind
+MimeType=application/x-freemind;text/x-troff-mm;
+Categories=Office;

@@ -1,0 +1,3 @@
+= DeskOS: freemind RPM
+
+This is the _freemind_ RPM package for the *DeskOS* operating system.
